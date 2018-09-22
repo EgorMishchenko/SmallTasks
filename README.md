@@ -1,6 +1,5 @@
 # SmallTasks
 1) BinaryTreeComparer:
-
   We have a class representing binary tree nodes: 
   class BTN { 
       int val; 
